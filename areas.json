@@ -1,0 +1,12 @@
+[
+   {
+      "name":"Swift",
+      "group":"Programming Language",
+      "repo":"https://github.com/Karetski/FastcadsDataAreaSwift.git"
+   },
+   {
+      "name":"Objective-C",
+      "group":"Programming Language",
+      "repo":"https://github.com/Karetski/FastcadsDataAreaObjC.git"
+   }
+]
